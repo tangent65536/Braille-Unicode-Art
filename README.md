@@ -1,10 +1,10 @@
-# Braille-Unicode-Art
+# Braille Unicode Art
 ## Intro
 This is a small piece of code that can transform images into black-and-white Braille unicode sequences like conventional ASCII art.
 
 ## Usage
-Please check the `ImageTransformer` class.
+Please refer to `tangent65536/braille/ImageTransformer.java`.
 
-## Off topic
-Well... I actually created this out of my depression. You'll probably get it when you see the sample output. >.<
+## Example Output
 ![Screenshot](./example/sample.png?raw=true)
+The original text output may be found here: [`sample.html`](./example/sample.html?raw=true)
